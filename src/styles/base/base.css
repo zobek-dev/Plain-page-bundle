@@ -1,0 +1,12 @@
+:root{
+  --red: #f0f;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  box-sizing: inherit;
+  background-color: var(--red);
+}

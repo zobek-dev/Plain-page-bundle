@@ -1,0 +1,1 @@
+:root{--red:#f0f}*{box-sizing:border-box}body{background-color:var(--red);box-sizing:inherit}.wrapper{margin:0 auto;max-width:1400px;padding:16px;width:100%}
